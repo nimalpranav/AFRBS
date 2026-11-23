@@ -14,7 +14,7 @@ SHORT_NAME = "AFRBS"
 
 BASE_DIR = Path(__file__).parent
 LOGO_PATH = BASE_DIR / "logo.png"
-EXE_PATH = BASE_DIR / "AdvancedFileRecoveryAndBackupSystem.exe"
+EXE_PATH = BASE_DIR / "Nimalpranav.AFRBS_1.0.0.0_x64.msix"
 
 # Update these whenever you release a new version.
 APP_VERSION = "1.0.0"
@@ -611,3 +611,4 @@ with privacy_tab:
         "data collection, Supabase configuration, retention practices, "
         "and deletion procedures before public release."
     )
+
