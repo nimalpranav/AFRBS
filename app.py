@@ -242,7 +242,7 @@ with home_tab:
             st.download_button(
                 label="⬇ Download AFRBS for Windows",
                 data=exe_data,
-                file_name="AdvancedFileRecoveryAndBackupSystem.exe",
+                file_name="Nimalpranav.AFRBS_1.0.0.0_x64.msix",
                 mime="application/vnd.microsoft.portable-executable",
                 use_container_width=True
             )
@@ -611,4 +611,5 @@ with privacy_tab:
         "data collection, Supabase configuration, retention practices, "
         "and deletion procedures before public release."
     )
+
 
